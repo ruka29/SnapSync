@@ -1,2 +1,2 @@
 # SnapSync
-A desktop application for backup your images from the mobile to pc HDD.
+A desktop application for backup images from a mobile device to personal computer.
